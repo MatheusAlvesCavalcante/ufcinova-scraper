@@ -36,3 +36,14 @@ O resultado é salvo em arquivos **CSV** e **JSON**, prontos para análise e vis
 ###  Instalar dependências:
 ```bash
 pip install requests beautifulsoup4 pandas tenacity urllib3 lxml
+Executar o notebook:
+
+Abra o arquivo web_scraper_UFC_Inova.ipynb no Google Colab.
+
+Rode as células em ordem.
+
+Ao final, os dados coletados serão exportados como:
+
+ufcinova_tech.csv
+
+ufcinova_tech.json
