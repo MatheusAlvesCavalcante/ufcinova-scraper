@@ -1,6 +1,6 @@
 # 🕸️ Projeto de Web Scraping da UFCINOVA  
 
-**Autor:** [Matheus Alves Cavalcante](https://github.com/MatheusAlvesCavalcante)  
+
 **Universidade:** Universidade Federal do Ceará (UFC)  
 **Curso:** Ciência de Dados  
 
